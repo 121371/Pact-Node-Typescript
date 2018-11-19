@@ -1,2 +1,4 @@
-# Pact-Node-Typescript
-This repository will give you a glimpse of working example of Pact with Node, typescript, Mocha, Chai.
+step 1: Clone or download the project to your local directory
+Step 2: npm install
+Step 3: npm test
+Two tests are defined, That should get pass
